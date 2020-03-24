@@ -15,11 +15,11 @@
 
 ### 论文
 
-[多策略切分粒度的藏汉双向神经机器翻译研究](https://mp.weixin.qq.com/s/iqfFjFq3r4ZAqIPfNF9wiQ)被CCMT2019会议录用，《厦门大学学报（自然科学版）》2020年02期刊发表.
+[《多策略切分粒度的藏汉双向神经机器翻译研究》](https://mp.weixin.qq.com/s/iqfFjFq3r4ZAqIPfNF9wiQ)被CCMT2019会议录用，《厦门大学学报（自然科学版）》2020年02期刊发表.
 
 #### 荣誉：
 
-## 曾先后被评为中央民族大学[优秀青年人物](https://www.sohu.com/a/229225619_174487)、[五四优秀模范人物](https://www.sohu.com/a/230474705_256808)、[第十三届中国大学生年度人物候选人.人民网](http://edu.people.com.cn/n1/2018/0420/c8216-29940453.html?from=timeline&isappinstalled=1)和[最美爱心支援支教者.农民日报](https://news.muc.edu.cn/info/1022/16183.htm).
+#### 曾先后被评为中央民族大学[优秀青年人物](https://www.sohu.com/a/229225619_174487)、[五四优秀模范人物](https://www.sohu.com/a/230474705_256808)、[第十三届中国大学生年度人物候选人.人民网](http://edu.people.com.cn/n1/2018/0420/c8216-29940453.html?from=timeline&isappinstalled=1)和[最美爱心支援支教者.农民日报](https://news.muc.edu.cn/info/1022/16183.htm).
 
 
 
