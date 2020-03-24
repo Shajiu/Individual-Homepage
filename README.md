@@ -7,7 +7,7 @@
 
 ### 论文
 
-[多策略切分粒度的藏汉双向神经机器翻译研究](https://mp.weixin.qq.com/s/iqfFjFq3r4ZAqIPfNF9wiQ)
+[多策略切分粒度的藏汉双向神经机器翻译研究](https://mp.weixin.qq.com/s/iqfFjFq3r4ZAqIPfNF9wiQ)被CCMT2019会议录用，《厦门大学学报（自然科学版）》2020年02期刊发表.
 
 
 
