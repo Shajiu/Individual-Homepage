@@ -17,7 +17,7 @@
 ##### 人工智能(AI)、自然语言处理（NLP）、机器翻译（MT）、大数据等。
 
 ### 四、论文
-##### 第一作[《多策略切分粒度的藏汉双向神经机器翻译研究》](https://mp.weixin.qq.com/s/iqfFjFq3r4ZAqIPfNF9wiQ)被第十五届全国机器翻译大会（CCMT 2019）录用，发表于《厦门大学学报（自然科学版）》2020年02期刊。
+##### 第一作[《多策略切分粒度的藏汉双向神经机器翻译研究》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=XDZK202002011&v=MTg3MjhITkhNclk5RVpZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWk9Sb0Z5dmdXN3pJUFNuUlpiRzQ=)被第十五届全国机器翻译大会（CCMT 2019）录用，发表于《厦门大学学报（自然科学版）》2020年02期刊。
 
 ### 五、项目经历
 ##### 多策略特定领域的智能机器翻译系统
