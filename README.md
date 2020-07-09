@@ -18,6 +18,7 @@
 
 ### 四、论文
 ##### 第一作[《多策略切分粒度的藏汉双向神经机器翻译研究》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=XDZK202002011&v=MTg3MjhITkhNclk5RVpZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWk9Sb0Z5dmdXN3pJUFNuUlpiRzQ=)被第十五届全国机器翻译大会（CCMT 2019）录用，发表于《厦门大学学报（自然科学版）》2020年02期刊。
+##### 第二作[《Revisiting Back-Translation for Low-Resource Machine Translation Between Chinese and Vietnamese》](https://ieeexplore.ieee.org/document/9129718?source=authoralert)has just been published on IEEE Xplore.
 
 ### 五、项目经历
 ##### 多策略特定领域的智能机器翻译系统
